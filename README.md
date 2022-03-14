@@ -1,8 +1,4 @@
-# Spotify Radio - Semana JS Expert 6.0
-
-Seja bem vindo(a) à sexta Semana Javascript Expert. Este é o código inicial para iniciar nossa jornada.
-
-Marque esse projeto com uma estrela 🌟
+# Spotify Radio 
 
 ## Preview
 
@@ -28,22 +24,6 @@ Marque esse projeto com uma estrela 🌟
         - [ ] Deve atingir 100% de cobertura de código em testes
         - [ ] Deve poder iniciar ou parar uma transmissão 
         - [ ] Deve enviar comandos para adicionar audio efeitos à uma transmissão
-
-## Tarefas por aula
-
-- Aula 01: Cobrir as camadas service e route com testes unitários e alcançar 100% de code coverage
-- Aula 02: Manter 100% de code coverage e implementar testes e2e para toda a API
-- Aula 03: implementar testes unitários para o frontend e manter 100% de code coverage
-- **PLUS**: 
-    - [ ] disponibilizar um novo efeito
-        - [ ] adicionar um botão novo no controlador
-        - [ ] adicionar um som de efeito novo para a pasta `audios/fx/`
-        - [ ] republicar no heroku
-
-### Considerações
-- Tire suas dúvidas sobre os desafios em nossa comunidade, o objetivo é você aprender de forma divertida. Surgiu dúvidas? Pergunte por lá!
-
-- Ao completar qualquer um dos desafios, envie no canal **#desafios** da comunidade no **Discord**
 
 ### Créditos aos áudios usados
 
